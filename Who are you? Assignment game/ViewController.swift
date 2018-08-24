@@ -8,7 +8,7 @@ class ViewController: UIViewController {
  var btn2_title = "Woman"
     
     
- var Question2 = "Do you have love hiking and coffee?"
+ var Question2 = "Do you love hiking and coffee?"
  var Answer2_1 = "I think so"
  var Answer2_2 = "No"
  var AnswerLabel_1 = "Then you are Jeary!"
